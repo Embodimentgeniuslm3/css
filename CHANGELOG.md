@@ -1,5 +1,15 @@
 # @primer/css
 
+## 18.0.3
+
+### Patch Changes
+
+- [#1693](https://github.com/primer/css/pull/1693) [`c1ca19d4`](https://github.com/primer/css/commit/c1ca19d4f071a9b12172e4a13bdb96c52a200d47) Thanks [@jasonmacgowan](https://github.com/jasonmacgowan)! - Fix light-theme attr reference in theme docs
+
+* [#1689](https://github.com/primer/css/pull/1689) [`257f68f6`](https://github.com/primer/css/commit/257f68f6539539ab809fbdb4351aefa57173e044) Thanks [@adityatheoctocatdev](https://github.com/adityatheoctocatdev)! - Update all Toast variant icons to use `var(--color-fg-on-emphasis)`
+
+  The only visible change is in the `warning` variant, previously using `var(--color-fg-default)`
+
 ## 18.0.2
 
 ### Patch Changes
